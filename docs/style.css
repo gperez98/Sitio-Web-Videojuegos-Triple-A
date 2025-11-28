@@ -8,4 +8,12 @@ body{
     color: #DDCEBB;
 }
 
+p {
+    text-align: justify;
+}
 
+
+.seccion-naughty {
+    margin-top: 50px;
+    padding-bottom: 70px; 
+}
